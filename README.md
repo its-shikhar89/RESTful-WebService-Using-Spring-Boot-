@@ -16,7 +16,7 @@ This repository contains a project that demonstrates how to build a RESTful Web 
 - **Java**: The primary programming language.
 - **Spring Boot**: For building and running the application.
 - **Spring Data JPA**: For seamless integration with the database.
-- **H2 Database**: An in-memory database for testing purposes.
+- **MySQL Database**: An in-memory database for testing purposes.
 - **Maven**: Dependency management and build tool.
 
 ---
